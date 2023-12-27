@@ -30,16 +30,16 @@ N/A
 
 ## Versioning [work in progress]
 
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/harlanray/shodo-proto/releases).
+We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/harlanray/city-skyline/releases).
 
 ## Authors
 
   - **Harlan Ray [HЯ]** - *Provided README & Source Code* -
     [GitHub Profile](https://github.com/harlanray)
 
-## License
+## License [work in progress]
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md) Creative Commons License - see the [LICENSE.md](LICENSE.md) file fordetails
+N/A
 
 ## Acknowledgments
 
